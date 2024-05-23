@@ -1,4 +1,4 @@
-# Powered By // @Venomowners //
+# Powered By // @Dil_Ka_Ehsaad //
 
 __NAME__ = "Raids"
 __MENU__ = """
