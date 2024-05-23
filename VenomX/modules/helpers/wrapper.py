@@ -80,9 +80,9 @@ def inline_wrapper(func):
                     results=[
                         (
                             InlineQueryResultPhoto(
-                                photo_url=f"https://te.legra.ph/file/0b373de1c657129297c39.jpg",
+                                photo_url=f"https://graph.org/file/b7c994d5a46f9fa19b83f.jpg",
                                 title="🥀 VenomX Userbot ✨",
-                                thumb_url=f"https://te.legra.ph/file/0b373de1c657129297c39.jpg",
+                                thumb_url=f"https://graph.org/file/b7c994d5a46f9fa19b83f.jpg",
                                 description=f"❤ Deploy Your Own Venom-Userbot 🌿...",
                                 caption=f"<b>🥀 Welcome » To » VenomX 🤍\n✅ Userbot {__version__} ✨...</b>",
                                 reply_markup=InlineKeyboardMarkup(button),
