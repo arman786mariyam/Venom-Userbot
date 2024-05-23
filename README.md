@@ -1,11 +1,11 @@
-<p align="center"><a href="https://t.me/VenomOwners"><img src="https://te.legra.ph/file/0b373de1c657129297c39.jpg"></a></p>
+<p align="center"><a href="https://t.me/Dil_Ka_Ehsaas"><img src="https://graph.org/file/b7c994d5a46f9fa19b83f.jpg"></a></p>
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-# ㅤㅤ ᴠᴇɴᴏᴍx 🖤
+# ㅤㅤ ᴀʀᴍᴀɴx 🖤
 ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ sᴘᴀᴍ & ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ᴜsᴇʀʙᴏᴛ's ʀᴇᴘᴏ, 
 
-ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 ᴠᴇɴᴏᴍ 🖤](https://t.me/Venom_bolte_pubIic)
+ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 ᴀʀᴍᴀɴ🖤](https://t.me/Venom_bolte_pubIic)
 
 ━━━━━━━━━━━━━━━━━━━━━━
 # ㅤㅤㅤDᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ​ 🚀
@@ -16,7 +16,7 @@
 # ㅤㅤㅤCʀᴇᴅɪᴛs ✌
 
 
-- [ᴠᴇɴᴏᴍ](https://github.com/venombolteop)ㅤㅤㅤ
+- [ᴀʀᴍᴀɴ](https://github.com/venombolteop)ㅤㅤㅤ
 
 - [ɢᴇɴɪᴜs-ᴜsᴇʀʙᴏᴛ](https://github.com/AdityaHalder/Genius-Userbot)ㅤㅤㅤㅤㅤ
 
@@ -31,7 +31,7 @@
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/Venom_Chatz"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ArmanChatz"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
