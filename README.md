@@ -5,7 +5,7 @@
 # ㅤㅤ ᴀʀᴍᴀɴx 🖤
 ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ sᴘᴀᴍ & ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ᴜsᴇʀʙᴏᴛ's ʀᴇᴘᴏ, 
 
-ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 ᴀʀᴍᴀɴ🖤](https://t.me/Venom_bolte_pubIic)
+ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 ᴀʀᴍᴀɴ🖤](https://t.me/Mr_Arman5)
 
 ━━━━━━━━━━━━━━━━━━━━━━
 # ㅤㅤㅤDᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ​ 🚀
@@ -16,7 +16,7 @@
 # ㅤㅤㅤCʀᴇᴅɪᴛs ✌
 
 
-- [ᴀʀᴍᴀɴ](https://github.com/Mr_Arman5)ㅤㅤㅤ
+- [ᴀʀᴍᴀɴ](https://github.com/venombolteop)ㅤㅤㅤ
 
 - [ɢᴇɴɪᴜs-ᴜsᴇʀʙᴏᴛ](https://github.com/AdityaHalder/Genius-Userbot)ㅤㅤㅤㅤㅤ
 
