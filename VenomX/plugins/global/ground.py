@@ -1,4 +1,4 @@
-# Powered By // @Venomowners //
+# Powered By // @Dil_Ka_Ehsaas //
 
 __NAME__ = "Global"
 __MENU__ = """
